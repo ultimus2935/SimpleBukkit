@@ -1,0 +1,5 @@
+{
+    "ngrok_authtoken": "enter ngrok authtoken",
+    "server_version": "enter server version, ex: 1.16.5, 1.15.3, 1.8.9",
+    "alloted_ram": "enter how much ram server can use, ex: 512M, 1G, 2048MG, 3G"
+}
